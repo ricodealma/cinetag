@@ -1,0 +1,10 @@
+.container { 
+    display: flex;
+    justify-content: space-around;
+}
+
+.container a{
+    text-decoration: none;
+    color: var(--preto);
+    text-align: left;
+}
